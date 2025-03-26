@@ -1,16 +1,27 @@
-## Hi there 👋
+## Brynn Crowley
+**CS Student | Security Enthusiast | Self-Hosted Infrastructure | Open Source Contributor**
 
-<!--
-**Crowley723/crowley723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I am passionate about cybersecurity and open-source technologies. Currently contributing to Authelia and focusing on authentication systems.
+I maintain my own self-hosted infrastructure to practice security principles and privacy-focused solutions.
 
-Here are some ideas to get you started:
+### Current Focus
+- Authentication and authorization systems
+- Best practices for secure web applications
+- User managment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Languages: Go, Typescript, C, Java, SQL, HTML, CSS, Javascript
+- Technologies: React, [Material-UI](https://mui.com/material-ui/)
+- Platforms: Linux, Docker, Kubernetes
+  
+---
+
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" alt="Crowley723's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Crowley723&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crowley723&count_private=true" />
+  </a>
+</div>
