@@ -1,6 +1,3 @@
-## Brynn Crowley
-**CS Student | Security Enthusiast | Self-Hosted Infrastructure | Open Source Contributor**
-
 ### About Me
 I am passionate about cybersecurity and open-source technologies. Currently contributing to Authelia and focusing on authentication systems.
 I maintain my own self-hosted infrastructure to practice security principles and privacy-focused solutions.
