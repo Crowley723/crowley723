@@ -5,7 +5,7 @@ I maintain my own self-hosted infrastructure to practice security principles and
 ### Current Focus
 - Authentication and authorization systems
 - Best practices for secure web applications
-- User managment
+- User management
 
 ### Skills
 - Languages: Go, Typescript, C, Java, SQL, HTML, CSS, Javascript
