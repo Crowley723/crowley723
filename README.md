@@ -26,9 +26,9 @@ I maintain my own self-hosted infrastructure to practice security principles and
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="Crowley723's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Crowley723&count_private=true" />
+    <img align="center" alt="Crowley723's GitHub stats" src="https://github-readme-stats-lofp.vercel.app/api?username=Crowley723&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crowley723&count_private=true" />
+    <img align="center" alt="Top Languages" src="https://github-readme-stats-lofp.vercel.app/api/top-langs/?username=Crowley723&count_private=true" />
   </a>
 </div>
