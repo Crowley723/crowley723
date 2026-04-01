@@ -1,25 +1,21 @@
-### About Me
-I am passionate about cybersecurity and open-source technologies. Currently contributing to Authelia and focusing on authentication systems.
-I maintain my own self-hosted infrastructure to practice security principles and privacy-focused solutions.
+## About Me
+I am a mid-level software engineer finishing my CS degree with a focus on authentication systems and self-hosted infrastructure.
 
-### Currently Working On
-- **Kubernetes Monitoring Setup**: Building a full observability stack with Loki, Grafana, Tempo, Mimir, and Pyroscope on my Kubernetes cluster
-  - Using Grafana's monitoring tools to automatically discover and collect logs, metrics, and traces
-  - Logs and traces are working great, still troubleshooting the metrics collection
-  
-- **Automated Kubernetes Node Deployment**: Creating configuration files for Flatcar Linux to easily deploy new Kubernetes nodes
-  - Switching from Ubuntu Server to a container-focused OS for cleaner infrastructure
-  - Goal: easily replace any node in the cluster without headaches (raise cattle not pets)
-  - Running everything on Proxmox across two physical servers
 
-- **Security-Focused Self-Hosting**: Maintaining high security standards in my homelab
-  - Contributing improvements to the Authelia sso/identity server
-  - Learning and implementing proper authentication and authorization patterns
-  - Keeping everything self-hosted with privacy and security as top priorities
+### 🔐 Authelia Maintainer
+- Full-stack contributions across auth, UI, and infrastructure
+- Currently building user management with support for OpenLDAP, Active Directory, and RFC 2307bis
 
-### Skills
+### 🔑 mTLS Certificate Management
+- End-to-end PKI flow where users authenticate via OIDC and receive signed mTLS certificates from a private CA
+- Deployed on a self-hosted PKI managed by cert-manager
+- 
+### ☸️ Homelab
+- 8-node K3s cluster (~300 pods) across a 3-host Proxmox cluster
+- Automated K8s worker provisioning with Flatcar Linux and Butane/Ignition
+
+## Skills
 - Languages: Go, Typescript, C, Java, SQL, HTML, CSS, Javascript
-- Technologies: React, [Material-UI](https://mui.com/material-ui/)
 - Platforms: Linux, Docker, Kubernetes
   
 ---
